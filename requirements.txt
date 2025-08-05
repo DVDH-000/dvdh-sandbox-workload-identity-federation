@@ -1,0 +1,5 @@
+boto3
+google-auth
+python-dotenv
+requests
+google-api-python-client
