@@ -3,3 +3,6 @@ google-auth
 python-dotenv
 requests
 google-api-python-client
+PyJWT
+google-cloud-iam
+google-cloud-storage
